@@ -8,12 +8,10 @@ Gem::Specification.new do |spec|
   spec.version       = TicTacToeGUI::VERSION
   spec.authors       = ["JPablo90"]
   spec.email         = ["jp.garciamurillo@gmail.com"]
-
   spec.summary       = %q{The Tic Tac Toe game}
   spec.description   = %q{This is a simulation of Tic Tac Toe game}
   spec.homepage      = "https://github.com/JPablo90/JPablo90-TicTacToe_GUI"
   spec.license       = "MIT"
-
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
   spec.files         = Dir.chdir(File.expand_path('..', __FILE__)) do
