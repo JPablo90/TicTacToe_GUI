@@ -1,5 +1,6 @@
 require "bundler/setup"
 require "game_tools/Board"
+require "game_tools/CheckRules"
 require "TicTacToe_GUI"
 
 RSpec.configure do |config|
