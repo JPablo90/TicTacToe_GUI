@@ -24,4 +24,8 @@ example_id                                  | status | run_time        |
 ./spec/game_tools/CheckRules_spec.rb[1:6:2] | passed | 0.00005 seconds |
 ./spec/game_tools/CheckRules_spec.rb[1:7:1] | passed | 0.00008 seconds |
 ./spec/game_tools/CheckRules_spec.rb[1:8:1] | passed | 0.00007 seconds |
+./spec/game_tools/Emulator_spec.rb[1:1:1]   | passed | 0.00795 seconds |
+./spec/game_tools/Emulator_spec.rb[1:2:1]   | passed | 0.00096 seconds |
+./spec/game_tools/Emulator_spec.rb[1:2:2]   | passed | 0.00016 seconds |
+./spec/game_tools/Emulator_spec.rb[1:2:3]   | passed | 0.00013 seconds |
 ./spec/game_tools/Player_spec.rb[1:1:1]     | passed | 0.00032 seconds |
